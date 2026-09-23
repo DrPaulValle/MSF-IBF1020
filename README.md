@@ -19,6 +19,15 @@ Un elemento central de la asignatura es la construcción de **analogías entre c
 
 ---
 
+## Software
+
+- [MATLAB 2023a](https://drive.google.com/drive/folders/1C-RWFhIngU_IRn0J8JG-eg-qenXrlTVq?usp=sharing)
+- [MATLAB Online](https://matlab.mathworks.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Python](https://www.python.org/downloads/)
+
+---
+
 ## Objetivo de este repositorio
 
 Este repositorio reúne el **manual de prácticas, material de apoyo, ejercicios, modelos y recursos computacionales** utilizados en la asignatura **Modelado de Sistemas Fisiológicos**.
@@ -198,21 +207,12 @@ Este enfoque permite relacionar la descripción fisiológica del problema con su
 
 ---
 
-## Software
-
-- [MATLAB 2023a](https://drive.google.com/drive/folders/1C-RWFhIngU_IRn0J8JG-eg-qenXrlTVq?usp=sharing)
-- [MATLAB Online](https://matlab.mathworks.com/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Python](https://www.python.org/downloads/)
-
----
-
 ## Bibliografía
 
 1. M. C. Khoo, *Physiological Control Systems: Analysis, Simulation, and Estimation*, 2nd ed., IEEE Press, 2018.
-2. K. Ogata, *Ingeniería de Control Moderna*, 5.ª ed., Pearson Educación, 2010.
-3. N. S. Nise, *Control Systems Engineering*, 8th ed., John Wiley & Sons, 2020.
-4. F. C. Hoppensteadt, C. S. Peskin, *Modeling and Simulation in Medicine and the Life Sciences*, 4th ed., Springer, 2012.
+2. F. C. Hoppensteadt, C. S. Peskin, *Modeling and Simulation in Medicine and the Life Sciences*, 4th ed., Springer, 2012.
+3. K. Ogata, *Ingeniería de Control Moderna*, 5.ª ed., Pearson Educación, 2010.
+4. N. S. Nise, *Control Systems Engineering*, 8th ed., John Wiley & Sons, 2020.
 5. T. Kind, T. J. Faes, J. W. Lankhaar, A. Vonk-Noordegraaf and M. Verhaegen, "Estimation of three-and four-element windkessel parameters using subspace model identification", IEEE Transactions on Biomedical Engineering, vol. 57, no. 7, pp. 1531--1538, 2010.
 6. M. Tetschke, P. Lilienthal, T. Pottgiesser, T. Fischer, E. Schalk and S. Sager S, "Mathematical Modeling of RBC Count Dynamics after Blood Loss", Processes, vol. 6, no. 9, 157, 2018. doi: https://doi.org/10.3390/pr6090157
 
