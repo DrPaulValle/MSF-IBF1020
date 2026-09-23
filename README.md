@@ -212,7 +212,7 @@ Este enfoque permite relacionar la descripción fisiológica del problema con su
 1. M. C. Khoo, *Physiological Control Systems: Analysis, Simulation, and Estimation*, 2nd ed., IEEE Press, 2018.
 2. K. Ogata, *Ingeniería de Control Moderna*, 5.ª ed., Pearson Educación, 2010.
 3. N. S. Nise, *Control Systems Engineering*, 8th ed., John Wiley & Sons, 2020.
-4. A. Garfinkel, J. Shevtsov and Y. Guo, *Modeling Life: The Mathematics of Biological Systems*, Springer, 2017.
+4. F. C. Hoppensteadt, C. S. Peskin, *Modeling and Simulation in Medicine and the Life Sciences*, 4th ed., Springer, 2012.
 5. T. Kind, T. J. Faes, J. W. Lankhaar, A. Vonk-Noordegraaf and M. Verhaegen, "Estimation of three-and four-element windkessel parameters using subspace model identification", IEEE Transactions on Biomedical Engineering, vol. 57, no. 7, pp. 1531--1538, 2010.
 6. M. Tetschke, P. Lilienthal, T. Pottgiesser, T. Fischer, E. Schalk and S. Sager S, "Mathematical Modeling of RBC Count Dynamics after Blood Loss", Processes, vol. 6, no. 9, 157, 2018. doi: https://doi.org/10.3390/pr6090157
 
