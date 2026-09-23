@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Modelado de Sistemas Fisiológicos
+message: When Engineering Meets Biology
+type: software
+authors:
+  - given-names: Paul A.
+    family-names: Valle
+    email: paul.vt@tijuana.tecnm.mx
+    affiliation: Tecnológico Nacional de México
+    orcid: 'https://orcid.org/0000-0001-6567-1065'
+repository-code: 'https://github.com/DrPaulValle/MSF-IBF1020'
+url: 'https://biomath.xyz/'
+keywords:
+  - Sistemas Fisiológicos
+  - Modelo Matemático
+  - Controlador PID
+  - Simualciones Numéricas
+  - Circuitos RLC
+  - Función de Transferencia
+  - Ecuaciones Integro-Diferenciales
+  - Error en Estado Estacionario
+  - Estabilidad en Lazo Abierto
+  - MATLAB
+  - Simulink
+  - Python
+  - VS Code Studio
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-09-22'
