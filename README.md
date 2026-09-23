@@ -198,6 +198,15 @@ Este enfoque permite relacionar la descripción fisiológica del problema con su
 
 ---
 
+## Software
+
+- [MATLAB 2023a](https://drive.google.com/drive/folders/1C-RWFhIngU_IRn0J8JG-eg-qenXrlTVq?usp=sharing)
+- [MATLAB Online](https://matlab.mathworks.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Python](https://www.python.org/downloads/)
+
+---
+
 ## Bibliografía
 
 1. M. C. Khoo, *Physiological Control Systems: Analysis, Simulation, and Estimation*, 2nd ed., IEEE Press, 2018.
