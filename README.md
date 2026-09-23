@@ -42,8 +42,6 @@ Las prácticas tienen como propósito complementar los conocimientos teóricos a
 
 A partir de esta competencia, la asignatura busca integrar principios de Ingeniería de Control, Electrónica Analógica y Ciencias de la Computación con la Anatomía y Fisiología del cuerpo humano para proporcionar descripciones cuantitativas y cualitativas de sistemas fisiológicos complejos, con la finalidad de **modelar, analizar, controlar, ilustrar y predecir su dinámica** tanto en el corto como en el largo plazo.
 
-De acuerdo con el programa oficial de la asignatura, la competencia específica consiste en emplear el control clásico y las técnicas de modelado de sistemas para su aplicación en procesos fisiológicos.
-
 ---
 
 ## Competencias previas
@@ -161,17 +159,14 @@ El producto final deberá integrar el **modelo matemático**, su **simulación**
 Las actividades prácticas del curso se orientan al desarrollo progresivo de las competencias de modelado y control. Entre las actividades contempladas se encuentran:
 
 - uso de software especializado para resolver problemas de modelado y control;
-- obtención del modelo matemático de un sistema fisiológico;
-- construcción y simplificación de diagramas de bloques;
-- obtención de modelos matemáticos de sistemas físicos y análisis de su respuesta ante diferentes señales de entrada;
-- simulación y verificación computacional de modelos;
-- análisis de la respuesta temporal de sistemas fisiológicos;
-- construcción de modelos presión–flujo para dinámica cardiovascular y biomecánica pulmonar;
-- estudio de modelos de equilibrio, población o concentración;
-- representación de fenómenos como cinética enzimática, potencial de membrana y propagación de señales;
-- diseño y simulación de controladores;
-- identificación y sintonización de controladores aplicados a sistemas fisiológicos; y
-- elaboración de reportes técnicos.
+- construcción y análisis de modelos de segundo orden para la mecánica pulmonar, mediante analogías presión–flujo y circuitos eléctricos equivalentes;
+- construcción y análisis de modelos de tercer orden para la mecánica pulmonar, considerando la interacción entre resistencias, compliancias e inertancias del sistema respiratorio;
+- construcción de modelos del sistema musculoesquelético mediante analogías mecánicas de masas, resortes y amortiguadores, y obtención de sus ecuaciones diferenciales y funciones de transferencia;
+- construcción de modelos presión–flujo del sistema cardiovascular, mediante analogías eléctricas para representar la resistencia vascular, la compliancia arterial y la dinámica cardiaca;
+- construcción y simulación de modelos matemáticos del sistema endócrino, mediante sistemas dinámicos que representen mecanismos de regulación y retroalimentación hormonal;
+- construcción y simulación de modelos matemáticos del sistema digestivo, para representar procesos de transporte, vaciamiento, absorción o regulación gastrointestinal;
+- construcción y análisis de modelos del sistema circulatorio mediante sistemas de ecuaciones diferenciales ordinarias, para describir la evolución temporal de variables hemodinámicas;
+- diseño, simulación y ajuste de controladores clásicos aplicados a circuitos eléctricos de segundo orden, como práctica integradora de los conceptos de modelado, estabilidad, respuesta temporal y control.
 
 ---
 
@@ -203,17 +198,6 @@ Este enfoque permite relacionar la descripción fisiológica del problema con su
 
 ---
 
-## Evaluación de las actividades prácticas
-
-De acuerdo con el enfoque por competencias de la asignatura, las evidencias pueden incluir:
-
-- **conocimiento:** ejercicios, cuestionarios y evaluaciones;
-- **producto:** prácticas, simulaciones, modelos, prototipos y reportes;
-- **desempeño:** desarrollo correcto de procedimientos y cumplimiento de los objetivos de cada práctica;
-- **actitud profesional:** responsabilidad, trabajo colaborativo, puntualidad y cumplimiento.
-
----
-
 ## Bibliografía
 
 1. M. C. Khoo, *Physiological Control Systems: Analysis, Simulation, and Estimation*, 2nd ed., IEEE Press, 2018.
@@ -222,7 +206,6 @@ De acuerdo con el enfoque por competencias de la asignatura, las evidencias pued
 4. A. Garfinkel, J. Shevtsov and Y. Guo, *Modeling Life: The Mathematics of Biological Systems*, Springer, 2017.
 5. T. Kind, T. J. Faes, J. W. Lankhaar, A. Vonk-Noordegraaf and M. Verhaegen, "Estimation of three-and four-element windkessel parameters using subspace model identification", IEEE Transactions on Biomedical Engineering, vol. 57, no. 7, pp. 1531--1538, 2010.
 6. M. Tetschke, P. Lilienthal, T. Pottgiesser, T. Fischer, E. Schalk and S. Sager S, "Mathematical Modeling of RBC Count Dynamics after Blood Loss", Processes, vol. 6, no. 9, 157, 2018. doi: https://doi.org/10.3390/pr6090157
-
 
 ---
 
