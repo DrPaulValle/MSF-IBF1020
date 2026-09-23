@@ -188,9 +188,9 @@ Analogía física / eléctrica
         ↓
 Modelo matemático
         ↓
-Ecuaciones diferenciales
+Ecuaciones integro-diferenciales
         ↓
-Función de transferencia o representación dinámica
+Función de transferencia
         ↓
 Simulación computacional
         ↓
@@ -214,24 +214,21 @@ De acuerdo con el enfoque por competencias de la asignatura, las evidencias pued
 
 ---
 
-## Bibliografía base
+## Bibliografía
 
 1. M. C. Khoo, *Physiological Control Systems: Analysis, Simulation, and Estimation*, 2nd ed., IEEE Press, 2018.
 2. K. Ogata, *Ingeniería de Control Moderna*, 5.ª ed., Pearson Educación, 2010.
 3. N. S. Nise, *Control Systems Engineering*, 8th ed., John Wiley & Sons, 2020.
-4. R. C. Dorf and R. H. Bishop, *Modern Control Systems*, 13th ed., Pearson, 2017.
-5. V. C. Rideout, *Mathematical and Computer Modeling of Physiological Systems*, Prentice-Hall, 1991.
-6. V. Z. Marmarelis, *Nonlinear Dynamic Modeling of Physiological Systems*, Wiley-IEEE, 2004.
-7. F. Hoppensteadt and C. Peskin, *Modeling and Simulation in Medicine and the Life Sciences*, Springer.
-8. A. Garfinkel, J. Shevtsov and Y. Guo, *Modeling Life: The Mathematics of Biological Systems*, Springer, 2017.
+4. A. Garfinkel, J. Shevtsov and Y. Guo, *Modeling Life: The Mathematics of Biological Systems*, Springer, 2017.
+5. T. Kind, T. J. Faes, J. W. Lankhaar, A. Vonk-Noordegraaf and M. Verhaegen, "Estimation of three-and four-element windkessel parameters using subspace model identification", IEEE Transactions on Biomedical Engineering, vol. 57, no. 7, pp. 1531--1538, 2010.
+6. M. Tetschke, P. Lilienthal, T. Pottgiesser, T. Fischer, E. Schalk and S. Sager S, "Mathematical Modeling of RBC Count Dynamics after Blood Loss", Processes, vol. 6, no. 9, 157, 2018. doi: https://doi.org/10.3390/pr6090157
+
 
 ---
 
 ## Referencia del syllabus
 
-Si utiliza material derivado del syllabus de la asignatura, puede citarse como:
-
-> P. A. Valle, *Syllabus para Modelado de Sistemas Fisiológicos*, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2023.
+> P. A. Valle, *Syllabus para Modelado de Sistemas Fisiológicos*, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2026.
 
 ---
 
